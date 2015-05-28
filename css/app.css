@@ -1,0 +1,21 @@
+button {
+    width: 200px;
+	height: 100px;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+}
+
+.display {
+    background-color:lightblue;
+}
+
+h1 {
+    text-align:center;
+    font-family:"Times New Roman";
+    color:orange;
+}
+
+body {
+    background-color:yellow;
+}
